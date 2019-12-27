@@ -11,10 +11,10 @@ def win(game):
     if (game[0]==game[4] and game[4]==game[8]) or (game[2]==game[6]and game[4]==game[6]):
         print(f'{invert(playerno)} has won')
         return True
-    if(game[0]==game[3] and game[3]==game[6]) or (game[1]==game[4] and game[4]==game[7]) or (game[2]==game[5] and game[5]==game[9]):
+    elif(game[0]==game[3] and game[3]==game[6]) or (game[1]==game[4] and game[4]==game[7]) or (game[2]==game[5] and game[5]==game[9]):
         print(f'{invert(playerno)} has won')
         return True
-    if(game[0]==game[1] and game[1]==game[2]) or (game[3]==game[4] and game[4]==game[5]) or (game[6]==game[7] and game[7]==game[8]):
+    elif(game[0]==game[1] and game[1]==game[2]) or (game[3]==game[4] and game[4]==game[5]) or (game[6]==game[7] and game[7]==game[8]):
         print(f'{invert(playerno)} has won')
         return True
 
