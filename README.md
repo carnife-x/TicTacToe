@@ -2,7 +2,7 @@
 >TicTacToe game designed in python
 
 
-**The following grid is used to get player input**
+###The following grid is used to get player input
 ```python
 ---------------------------
  |       |       |       |
