@@ -23,6 +23,7 @@ Player 1: Enter the location you want to play
 **the game ends when the one of the players has won
 the console gives you an option to start a new game**
 
+```python
 ---------------------------
  |       |       |       |
  |   X   |   O   |   3   |
@@ -38,6 +39,7 @@ the console gives you an option to start a new game**
 ---------------------------
 Player 1 has won
 Do you want to play again?
+```
 
 ```python
 game=[1,2,3,4,5,6,7,8,9]
