@@ -47,7 +47,7 @@ Do you want to play again
 ```python
 game=[1,2,3,4,5,6,7,8,9]
 playerno='Player 1'
-def invert(x): #temporarily inverts the player name i use it when print the name of player 
+def invert(x): #temporarily inverts the player name i use it when printing the winning player 
     if x=='Player 1':
         return 'Player 2'
     else:
