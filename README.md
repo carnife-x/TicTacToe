@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe game designed in python
+>TicTacToe game designed in python
 
 
 **The following grid is used to get player input**
@@ -22,8 +22,8 @@ Player 1: Enter the location you want to play
 
 *The entered location replaces the number with the players symbol*
 
-**the game ends when the one of the players has won
-the console gives you an option to start a new game**
+**The game ends when the one of the players has won.
+The console then gives you an option to start a new game**
 
 ```python
 ---------------------------
