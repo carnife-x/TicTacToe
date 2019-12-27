@@ -3,6 +3,7 @@ TicTacToe game designed in python
 
 
 **The following grid is used to get player input**
+```python
 ---------------------------
  |       |       |       |
  |   1   |   2   |   3   |
@@ -17,6 +18,7 @@ TicTacToe game designed in python
  |       |       |       |
 ---------------------------
 Player 1: Enter the location you want to play
+```
 
 *The entered location replaces the number with the players symbol*
 
@@ -38,7 +40,7 @@ the console gives you an option to start a new game**
  |       |       |       |
 ---------------------------
 Player 1 has won
-Do you want to play again?
+Do you want to play again
 ```
 
 ```python
