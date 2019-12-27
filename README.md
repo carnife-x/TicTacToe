@@ -2,7 +2,7 @@
 >TicTacToe game designed in python
 
 
-###The following grid is used to get player input
+### The following grid is used to get player input
 ```python
 ---------------------------
  |       |       |       |
@@ -43,6 +43,7 @@ Player 1 has won
 Do you want to play again
 ```
 
+# Code for the game:
 ```python
 game=[1,2,3,4,5,6,7,8,9]
 playerno='Player 1'
